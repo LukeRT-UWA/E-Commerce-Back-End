@@ -29,7 +29,6 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true,
       defaultValue: 10,
       validate: {isNumeric:true},
     },
