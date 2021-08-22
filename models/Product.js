@@ -28,11 +28,10 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      primaryKey: true,
       defaultValue: 10,
       validate: {isNumeric:true},
     },
-    traveller_id: {
+    category_id: {
       type: DataTypes.INTEGER,
       references: {
         model: 'category',
