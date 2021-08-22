@@ -16,7 +16,7 @@ A back end using sequelize and mysql to store product related information in an 
 Clone repo and run server on port 3001
 
 ## Usage
-Usage video:
+https://user-images.githubusercontent.com/84198206/130349244-2091446b-cbe1-4785-a882-f3e14f39cba7.mp4
 
 ## License
 MIT
